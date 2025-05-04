@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+body {
+    background-color: rgb(63, 62, 62);
+}
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
